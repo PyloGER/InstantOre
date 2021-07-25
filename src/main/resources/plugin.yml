@@ -1,0 +1,7 @@
+name: Instantore
+version: ${project.version}
+main: de.pylo.instantore.PyloGER
+api-version: 1.17
+authors: [ PyloGER ]
+description: Short Plugin to get directly smelt ore from ore blocks
+website: UtopiaGER.de
